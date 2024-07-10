@@ -1,0 +1,23 @@
+{
+  "name": "lokilogsbatch",
+  "version": "1.0.0",
+  "description": "Loki Graphana batch logs retriever",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszduraj/LokiLogsBatch.git"
+  },
+  "author": "Lukasz Duraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukaszduraj/LokiLogsBatch/issues"
+  },
+  "homepage": "https://github.com/lukaszduraj/LokiLogsBatch#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
