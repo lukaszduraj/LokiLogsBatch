@@ -42,7 +42,7 @@ Before running the script, ensure that you have a `config.json` file in the same
 4. **Run the script:**
 
    ```bash
-   node your_script_name.js
+   node index.js
    ```
 
 ### State Management
